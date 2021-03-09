@@ -1,0 +1,8 @@
+.footer-section {
+    width: 100%;
+    height: 50vh;
+    background-color: #111;
+    color: white;
+    margin: 0;
+    display: flex;
+}

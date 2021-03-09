@@ -1,0 +1,32 @@
+@font-face {
+  src: url('fonts/Geometria-Light.ttf');
+  font-family: geometria;
+}
+
+@font-face {
+  src: url('fonts/tt0144m_.ttf');
+  font-family: futura;
+}
+
+body {
+  margin: 0;
+  font-family: futura;
+}
+
+button, input, a {
+  outline: none;
+  border: none;
+}
+
+.color-primary {
+  color: orangered;
+}
+
+@keyframes pulse {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 100%;
+  }
+}
